@@ -2,4 +2,4 @@
 let fruits = [ '', ':apple:' ]
 ```
 
-:apple:
+':apple:'

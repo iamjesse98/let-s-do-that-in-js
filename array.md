@@ -1,3 +1,5 @@
 ```js
-let fruits = [ ':apple:', ':apple:' ]
+let fruits = [ '', ':apple:' ]
 ```
+
+:apple:

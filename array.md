@@ -1,3 +1,3 @@
 ```js
-let fruits = [ '🍎', '🍊' ]
+let fruits = [ ':apple:', ':apple:' ]
 ```
